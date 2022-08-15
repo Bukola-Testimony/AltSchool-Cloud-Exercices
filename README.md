@@ -1,4 +1,5 @@
 # AltSchool-Cloud-Exercices# 
+> <img src="./cloud3.JPG" alt="cloud Engineering image">
 
 This is the beginning of my journey in Altschool cloud Engineering track second semester. I am excited and pumped up to begin this exciting journey into the cloud. 
 
@@ -8,7 +9,7 @@ This is the beginning of my journey in Altschool cloud Engineering track second 
 - [EXRCISE 2](#exercice-2)
 - [EXRCISE 3](#exercice-3)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -50,46 +51,72 @@ Note: see screenshot of output below.
 
 ## EXRCISE 3
 
-``` $ cal ```
- Display current month calendar
+```console
 
-``` $ w ```
- Display who is online
+# To Display current month calendar.
+~$ cal
 
-``` $ uptime ```  
-  Display how long the system has been running
+# To Display who is online.
+ ~$ w 
 
-
-
-```bash
-~$ cal    To Display current month calendar
- ~$ w     To Display who is online
- ~$ uptime  To Display how long the system has been running
+# To Display how long the system has been running.
+ ~$ uptime  
 ```
 
 > <img src="./Linux/uptime-calendar-w.JPG" alt="linux commands">
 
 
-```bash
+```console
 
-~$ timedatectl    [To Display current date and time]
-~$ sudo timedatectl set-timezone Africa/Lagos     [To set currentdate and time to Afica/Lagos]
+# To display current date and time
+~$ timedatectl  
+
+# To set currentdate and time to Afica/Lagos
+~$ sudo timedatectl set-timezone Africa/Lagos 
+
 ```
 
 > <img src="./Linux/Date-time.JPG" alt="Linux commands">
 
 
 
+```console
+
+# To display the user and group ids of your current user.
+~$ id 
+
+# To display the last users who have logged onto the system.
+~$ last    
+```
+
+> <img src="./Linux/id-last-who.JPG" alt="Linux commands">
 
 
 
 
+```console
+
+# Display your currently running processes
+~$ ps
+
+# Display and manage the top processes
+~$ top  
+```
+
+> <img src="./Linux/ps-top.JPG" alt="Linux commands">
 
 
+```console
 
+# Display total disk usage off the current directory
+~$ du -sh
 
+# Display disk usage for all files and directories in human readable format
+~$ du -ah
+ 
+```
 
-
+> <img src="./Linux/du-ah-sh.JPG" alt="Linux commands">
 
 
 
