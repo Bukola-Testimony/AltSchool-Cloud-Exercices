@@ -1,4 +1,4 @@
-# AltSchool-Cloud-Exercices# 
+# AltSchool-Cloud-Exercices
 > <img src="./cloud3.JPG" alt="cloud Engineering image">
 
 This is the beginning of my journey in Altschool cloud Engineering track second semester. I am excited and pumped up to begin this exciting journey into the cloud. 
@@ -6,8 +6,8 @@ This is the beginning of my journey in Altschool cloud Engineering track second 
 - [Overview](#overview)
 - [What I learned](#what-i-learned)
 - [My process](#my-process)
-- [EXRCISE 2](#exercice-2)
-- [EXRCISE 3](#exercice-3)
+- [Exercise 2](#exercise-2)
+- [Exercise 3](#exercise-3)
 - [Author](#author)
 
 
@@ -38,18 +38,21 @@ We were given a task to set up Setup Ubuntu 20.04 LTS on our local machine using
 I downloaded, Installed and setup a vertualization software (Virtual Box) on my windows O/S.
 I downloaded, Installed and setup Vagrant(A Development environment) on my windows O/S using git bash command.I also created a vagrant folder for vagrant initialization and set up on virtualBox. Finally installed and set up ubuntu focal 20.04LTS on vagrant. 
 
-I particularly had a challenge configuring private networks on vagrant as it kept getting some errors each time I want to power up the machine. With the help of some my colleagues and a lot of google searching, i was able to finally set up the machine and configured it to private network. Here is the screenshot:
 
+## EXERCISE 2
+I particularly had a challenge configuring private networks on vagrant as it kept getting some errors each time I want to power up the machine. With the help of some my colleagues and a lot of google searching, I was able to finally set up the machine and configured it to private network. 
 
+#### Here is the screenshot:
 
-## EXRCISE 2
-Private network set to "dhcp" and configuration: ifconfig. 
+## Private network set to "dhcp" and configuration: ifconfig. 
 Note: see screenshot of output below.
 <br/>
 > <img src="./Vagrant/Vagrant-config.JPG" alt="vagrant configuration output">
 
 
-## EXRCISE 3
+
+## EXERCISE 3
+### Linux commands and their output:
 
 ```console
 
