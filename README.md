@@ -47,7 +47,7 @@ I particularly had a challenge configuring private networks on vagrant as it kep
 ## Private network set to "dhcp" and configuration: ifconfig. 
 Note: see screenshot of output below.
 <br/>
-> <img src="./Vagrant/Vagrant-config.JPG" alt="vagrant configuration output">
+> <img src="./Vagrant/Vagrant-ifconfig.JPG" alt="vagrant configuration output">
 
 
 
