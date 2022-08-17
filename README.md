@@ -130,5 +130,5 @@ Note: see screenshot of output below.
 ## Author
 
 - Website - [Bukola Testimony](https://bukola-testimony.github.io/My-Portfolio-website/)
-Bukola-Testimony)
+
 - Twitter - [@BukolaTestimony](https://twitter.com/BukolaTestimony)
