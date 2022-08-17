@@ -56,14 +56,18 @@ Note: see screenshot of output below.
 
 ```console
 
+# To Display how long the system has been running.
+ ~$ uptime  
+
 # To Display current month calendar.
 ~$ cal
 
 # To Display who is online.
  ~$ w 
+ 
+# To Display detailed information about RAM.
+ ~$ free
 
-# To Display how long the system has been running.
- ~$ uptime  
 ```
 
 > <img src="./Linux/uptime-calendar-w.JPG" alt="linux commands">
@@ -111,7 +115,7 @@ Note: see screenshot of output below.
 
 ```console
 
-# Display total disk usage off the current directory
+# Display total disk usage of the current directory
 ~$ du -sh
 
 # Display disk usage for all files and directories in human readable format
