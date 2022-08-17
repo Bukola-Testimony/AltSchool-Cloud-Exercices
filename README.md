@@ -130,8 +130,4 @@ Note: see screenshot of output below.
 ## Author
 
 - Website - [Bukola Testimony](https://bukola-testimony.github.io/My-Portfolio-website/)
-<<<<<<< HEAD
-=======
-
->>>>>>> 92844a2a3c656ad99374a303bdc921f5bfe682d8
 - Twitter - [@BukolaTestimony](https://twitter.com/BukolaTestimony)
