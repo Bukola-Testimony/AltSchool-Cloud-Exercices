@@ -1,13 +1,15 @@
 # AltSchool-Cloud-Exercices
 > <img src="./cloud3.JPG" alt="cloud Engineering image">
 
-This is the beginning of my journey in Altschool cloud Engineering track second semester. I am excited and pumped up to begin this exciting journey into the cloud. 
+This is the beginning of my journey in Altschool cloud Engineering track, second semester. I am excited and pumped up to begin an exciting journey into the cloud🚀🚀. 
 
+
+- [📔 introduction](#AltSchool-Cloud-Exercices) 
 - [Overview](#overview)
 - [What I learned](#what-i-learned)
 - [My process](#my-process)
-- [Exercise 2](#exercise-2)
-- [Exercise 3](#exercise-3)
+- [📔 week 1](./week1/week1.md)
+- [📔 week 2](./week2/week2.md)
 - [Author](#author)
 
 
@@ -31,101 +33,10 @@ It has been a loaded week of sleepless nights and a lot to learn, but the progre
 
 
 ## My process
-- Installed and set up VirtualBox
-- Installed and set up Vagrant
-- Installed and set up Ubuntu Focal 20.04LTS
-We were given a task to set up Setup Ubuntu 20.04 LTS on our local machine using Vagrant and customize Vagrantfile as necessary with private_network set to dhcp. For this task, 
-I downloaded, Installed and setup a vertualization software (Virtual Box) on my windows O/S.
-I downloaded, Installed and setup Vagrant(A Development environment) on my windows O/S using git bash command.I also created a vagrant folder for vagrant initialization and set up on virtualBox. Finally installed and set up ubuntu focal 20.04LTS on vagrant. 
+I will be documenting my progress on a weekly basis. This will include all weekly tasks and exercises. I have included links to each week for easy navigation. Kindly click on the link above to navigate to the week of interest.
+Thanks for following along!!🚀🚀.
 
-
-## EXERCISE 2
-I particularly had a challenge configuring private networks on vagrant as it kept getting some errors each time I want to power up the machine. With the help of some my colleagues and a lot of google searching, I was able to finally set up the machine and configured it to private network. 
-
-#### Here is the screenshot:
-
-## Private network set to "dhcp" and configuration: ifconfig. 
-Note: see screenshot of output below.
-<br/>
-> <img src="./Vagrant/Vagrant-ifconfig.JPG" alt="vagrant configuration output">
-
-
-
-## EXERCISE 3
-### Linux commands and their output:
-
-```console
-
-# To Display how long the system has been running.
- ~$ uptime  
-
-# To Display current month calendar.
-~$ cal
-
-# To Display who is online.
- ~$ w 
- 
-# To Display detailed information about RAM.
- ~$ free
-
-```
-
-> <img src="./Linux/uptime-calendar-w.JPG" alt="linux commands">
-
-
-```console
-
-# To display current date and time
-~$ timedatectl  
-
-# To set currentdate and time to Afica/Lagos
-~$ sudo timedatectl set-timezone Africa/Lagos 
-
-```
-
-> <img src="./Linux/Date-time.JPG" alt="Linux commands">
-
-
-
-```console
-
-# To display the user and group ids of your current user.
-~$ id 
-
-# To display the last users who have logged onto the system.
-~$ last    
-```
-
-> <img src="./Linux/id-last-who.JPG" alt="Linux commands">
-
-
-
-
-```console
-
-# Display your currently running processes
-~$ ps
-
-# Display and manage the top processes
-~$ top  
-```
-
-> <img src="./Linux/ps-top.JPG" alt="Linux commands">
-
-
-```console
-
-# Display total disk usage of the current directory
-~$ du -sh
-
-# Display disk usage for all files and directories in human readable format
-~$ du -ah
- 
-```
-
-> <img src="./Linux/du-ah-sh.JPG" alt="Linux commands">
-
-
+🧡🧡🧡 HAPPY VIEWING 🧡🧡🧡
 
 ## Author
 
