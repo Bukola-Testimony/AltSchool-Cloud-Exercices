@@ -40,7 +40,11 @@ I downloaded, Installed and setup a vertualization software (Virtual Box) on my 
 I downloaded, Installed and setup Vagrant(A Development environment) on my windows O/S using git bash command.I also created a vagrant folder for vagrant initialization and set up on virtualBox. Finally installed and set up ubuntu focal 20.04LTS on vagrant. 
 
 
+<br>
+<br>
+
 ## EXERCISE 2💻
+
 I particularly had a challenge configuring private networks on vagrant as it kept getting some errors each time I want to power up the machine. With the help of some my colleagues and a lot of google searching, I was able to finally set up the machine and configured it to private network. 
 
 #### Here is the screenshot:
@@ -52,6 +56,9 @@ Note: see screenshot of output below.
 
 > ![AltSchool Cloud Exercices](../week1/Vagrant/Vagrant-ifconfig.JPG)
 
+
+<br>
+<br>
 
 
 ## EXERCISE 3💻
