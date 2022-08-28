@@ -1,7 +1,7 @@
   # AltSchool-Cloud-Exercices-Week-2
 > <img src="./cloud3.JPG" alt="cloud Engineering image">
 
-
+- [📔 introduction](./README.md)
 - [Overview](#overview) 
 - [My process](#my-process)
 - [Exercise 1](#exercise-1)
@@ -13,12 +13,14 @@
 ## Overview
 LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
 
-It has been exactly three weeks of learning cloud engineering with AltSchool.There has been so much concepts to learn. This week we learnt processes and file systems in linux. We also learned about how to create users, groups, permission and how to generating ssh keys. 
+It has been exactly three weeks of learning cloud engineering with AltSchool.There has been so much concepts to learn. This week we learnt processes and file systems in linux, how to create users and groups, How to give sudo priviledges to users, how to add permissions and how to generate ssh keys. 
+The highlight for me was when I discovered that by default, admin group have sudo priviledges and any user who has sudo rights has root priviledges.
 
 
 
 ## My process
-- I created 3 groups: Admin, Support and Engineering
+- I created 2 groups: Support and Engineering. Admin group has already been created by default.
+- Also by default, admin group belongs to the sudoers group which means that the user added to the admin group has sudo priviledges.
 - I added users to each group
 - I generated ssh keys for the user in the admin Group
 - I installed PHP 7.4 using ppa:ondrej/php package repo
@@ -61,7 +63,7 @@ Generated ssh keys for user (Bukola) in the admin group:
 Task : Install PHP 7.4 on your linux machine using the ppa:ondrej/php package repo.
 
 
-### Installation of PHP 7.4 using ppa:ondrej/php package repo and apache
+###  Installation of PHP 7.4 using ppa:ondrej/php package repo and apache
 
 ```console
 
