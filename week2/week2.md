@@ -2,7 +2,7 @@
 
 > ![AltSchool Cloud Exercices](./cloud3.JPG)
 
-- [📔 introduction](./README.md)
+- [📔 introduction](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices)
 - [Overview](#overview) 
 - [My process](#my-process)
 - [Exercise 1](#exercise-1)
@@ -38,22 +38,31 @@ Generate an ssh key for the user in the admin group.
 
 #### Here is the screenshot:
 
-## Creating users and groups 
+## Creating users and groups  
 Note: see screenshot of output below.
 <br/>
-created users
+
+#### created users
 > <img src="./exercise1/users.JPG" alt="groups">
 
 
 
-created groups
+#### created groups
 > <img src="./exercise1/Capture.JPG" alt="groups">
+
+
 added users to groups
 > <img src=".exercise1/Group-users.JPG" alt="users">
+
+
 contents of /etc/groups
 > <img src=".exercise1/etc-group.JPG" alt="content of etc groups">
+
+
 contents of /etc/password
 > <img src=".exercise1/etc-passwd.JPG" alt="content of etc passwd">
+
+
 Generated ssh keys for user (Bukola) in the admin group:
 <img src=".exercise1/sshKeygen.JPG" alt="content of user in the admin group">
 <img src=".exercise1/sshkeygen1.JPG" alt="content of user in the admin group">
