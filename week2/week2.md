@@ -1,6 +1,6 @@
   # AltSchool-Cloud-Exercices-Week-2
 
-> ![AltSchool Cloud Exercices](./cloud3.JPG)
+> <img src= "https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices/blob/main/cloud3.JPG" alt="cloud Engineering image"> 
 
 - [📔 introduction](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices)
 - [Overview](#overview) 
@@ -42,33 +42,43 @@ Generate an ssh key for the user in the admin group.
 Note: see screenshot of output below.
 <br/>
 
-#### created users
+### created users
 > <img src="./exercise1/users.JPG" alt="groups">
 
 
 
-#### created groups
+### created groups
 > <img src="./exercise1/Capture.JPG" alt="groups">
 
 
-added users to groups
-> <img src=".exercise1/Group-users.JPG" alt="users">
+### added users to groups
+> <img src="./exercise1/Group-users.JPG" alt="users">
 
 
-contents of /etc/groups
-> <img src=".exercise1/etc-group.JPG" alt="content of etc groups">
+### contents of /etc/groups (tail)
+> <img src="./exercise1/etc-group.JPG" alt="content of etc groups">
 
 
-contents of /etc/password
-> <img src=".exercise1/etc-passwd.JPG" alt="content of etc passwd">
+### contents of /etc/password (tail)
+> <img src="./exercise1/etc-passwd.JPG" alt="content of etc passwd">
 
+<br>
+<br>
 
-Generated ssh keys for user (Bukola) in the admin group:
-<img src=".exercise1/sshKeygen.JPG" alt="content of user in the admin group">
-<img src=".exercise1/sshkeygen1.JPG" alt="content of user in the admin group">
-<img src=".exercise1/pub-keys.JPG" alt="content of user in the admin group">
-<img src=".exercise1/user-privatekey.JPG" alt="content of user in the admin group">
+## Generated ssh keys for user (Bukola) in the admin group:
+<br>
+<img src="./exercise1/user-privatekey.png" alt="content of user in the admin group">
 
+### Public keys
+
+<img src="./exercise1/sshKeygen.png" alt="content of user in the admin group">
+
+### Private keys
+
+<img src="./exercise1/pub-keys.png" alt="content of user in the admin group">
+
+<br>
+<br>
 
 
 
@@ -101,22 +111,21 @@ Task : Install PHP 7.4 on your linux machine using the ppa:ondrej/php package re
 ~$ vi /etc/apt/souces.list 
 
 ```
-> <img src="./exercise1/sources.list.JPG" alt="Linux commands">
+> <img src="./exercise2/sources.list.JPG" alt="Linux commands">
 
 
 
 
 
 
-### Content of etc/apt/souces.list.d
+### Content of etc/apt
 ```console
 
 ~$ vi /etc/apt/souces.list 
 
 ```
-> <img src="./exercise1/etc-apt-source.list.JPG" alt="Linux commands">
-
-
+> <img src="./exercise2/etc-apt-source-list.png" alt="Linux commands">
+<br>
 
 
 ## Author
