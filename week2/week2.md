@@ -1,5 +1,6 @@
   # AltSchool-Cloud-Exercices-Week-2
-> <img src="./cloud3.JPG" alt="cloud Engineering image">
+
+> ![AltSchool Cloud Exercices](./cloud3.JPG)
 
 - [📔 introduction](./README.md)
 - [Overview](#overview) 
@@ -42,6 +43,9 @@ Note: see screenshot of output below.
 <br/>
 created users
 > <img src="./exercise1/users.JPG" alt="groups">
+
+
+
 created groups
 > <img src="./exercise1/Capture.JPG" alt="groups">
 added users to groups
