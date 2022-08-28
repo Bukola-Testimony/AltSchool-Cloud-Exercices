@@ -1,9 +1,9 @@
 # AltSchool-Cloud-Exercices-Week-1
-> <img src="./cloud3.JPG" alt="cloud Engineering image">
+> <img src= "https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices/blob/main/cloud3.JPG" alt="cloud Engineering image">
 
 This is the beginning of my journey in Altschool cloud Engineering track second semester. I am excited and pumped up to begin this exciting journey into the cloud. 
 
-- [📔 introduction](./README.md)
+- [Introduction](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices#readme)
 - [Overview](#overview)
 - [What I learned](#what-i-learned)
 - [My process](#my-process)
@@ -40,7 +40,7 @@ I downloaded, Installed and setup a vertualization software (Virtual Box) on my 
 I downloaded, Installed and setup Vagrant(A Development environment) on my windows O/S using git bash command.I also created a vagrant folder for vagrant initialization and set up on virtualBox. Finally installed and set up ubuntu focal 20.04LTS on vagrant. 
 
 
-## EXERCISE 2
+## EXERCISE 2💻
 I particularly had a challenge configuring private networks on vagrant as it kept getting some errors each time I want to power up the machine. With the help of some my colleagues and a lot of google searching, I was able to finally set up the machine and configured it to private network. 
 
 #### Here is the screenshot:
@@ -48,12 +48,14 @@ I particularly had a challenge configuring private networks on vagrant as it kep
 ## Private network set to "dhcp" and configuration: ifconfig. 
 Note: see screenshot of output below.
 <br/>
-> <img src="./week1/Vagrant/Vagrant-ifconfig.JPG" alt="vagrant configuration output">
+
+
+> ![AltSchool Cloud Exercices](../week1/Vagrant/Vagrant-ifconfig.JPG)
 
 
 
-## EXERCISE 3
-### Linux commands and their output:
+## EXERCISE 3💻
+###  Linux commands and their output:
 
 ```console
 
@@ -71,8 +73,9 @@ Note: see screenshot of output below.
 
 ```
 
-> <img src="./week1/Linux/uptime-calendar-w.JPG" alt="linux commands">
 
+> ![AltSchool Cloud Exercices](../week1/linux/uptime-calendar-w.JPG)
+<br>
 
 ```console
 
@@ -84,7 +87,8 @@ Note: see screenshot of output below.
 
 ```
 
-> <img src="./week1/Linux/Date-time.JPG" alt="Linux commands">
+> ![AltSchool Cloud Exercices](../week1/linux/Date-time.JPG)
+<br>
 
 
 
@@ -97,8 +101,9 @@ Note: see screenshot of output below.
 ~$ last    
 ```
 
-> <img src="./week1/Linux/id-last-who.JPG" alt="Linux commands">
 
+> ![AltSchool Cloud Exercices](../week1/linux/id-last-who.JPG)
+<br>
 
 
 
@@ -110,8 +115,9 @@ Note: see screenshot of output below.
 # Display and manage the top processes
 ~$ top  
 ```
+<br>
 
-> <img src="./week1/Linux/ps-top.JPG" alt="Linux commands">
+> ![AltSchool Cloud Exercices](../week1/linux/ps-top.JPG)
 
 
 ```console
@@ -124,9 +130,10 @@ Note: see screenshot of output below.
  
 ```
 
-> <img src="./week1/Linux/du-ah-sh.JPG" alt="Linux commands">
 
+> ![AltSchool Cloud Exercices](../week1/linux/du-ah-sh.JPG)
 
+<br>
 
 ## Author
 
