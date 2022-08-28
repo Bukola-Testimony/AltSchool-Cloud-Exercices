@@ -26,17 +26,20 @@ The highlight for me was when I discovered that by default, admin group have sud
 - I generated ssh keys for the user in the admin Group
 - I installed PHP 7.4 using ppa:ondrej/php package repo
 
+<br>
+<br>
+
+## EXERCISE 1💻
+
+### Task: 
+- Create 3 groups; admin, support and engineering.
+- create a user in each of the groups.
+- Add the admin group to sudoers.
+- Generate an ssh key for the user in the admin group.
 
 
-## EXERCISE 1
-Task: Create 3 groups; admin, support and engineering.
-create a user in each of the groups.
-Add the admin group to sudoers.
-Generate an ssh key for the user in the admin group.
-
-
-
-#### Here is the screenshot:
+<br>
+<br>
 
 ## Creating users and groups  
 Note: see screenshot of output below.
@@ -77,12 +80,13 @@ Note: see screenshot of output below.
 
 <img src="./exercise1/pub-keys.png" alt="content of user in the admin group">
 
+
 <br>
 <br>
 
 
 
-## EXERCISE 2
+## EXERCISE 2💻
 Task : Install PHP 7.4 on your linux machine using the ppa:ondrej/php package repo.
 
 
