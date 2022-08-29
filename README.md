@@ -7,8 +7,8 @@ This is the beginning of my journey in Altschool cloud Engineering track, second
 - [Introduction](./README.md) 
 - [Overview](#overview)
 - [My process](#my-process)
-- [📔 week 1](./week1/week1.md)
-- [📔 week 2](./week2/week2.md)
+- [📔 week-1 Exercises](./week1/week1.md)
+- [📔 week-2 Exercises](./week2/week2.md)
 - [Author](#author)
 
   
