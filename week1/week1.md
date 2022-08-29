@@ -1,8 +1,6 @@
 # AltSchool-Cloud-Exercices-Week-1
 > <img src= "https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices/blob/main/cloud3.JPG" alt="cloud Engineering image">
 
-This is the beginning of my journey in Altschool cloud Engineering track second semester. I am excited and pumped up to begin this exciting journey into the cloud. 
-
 - [Back to first page-Introduction](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices#readme)
 - [Overview](#overview)
 - [What I learned](#what-i-learned)
