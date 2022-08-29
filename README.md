@@ -4,7 +4,7 @@
 This is the beginning of my journey in Altschool cloud Engineering track, second semester. I am excited and pumped up to begin an exciting journey into the cloud🚀🚀. 
 
 
-- [📔 introduction](./README.md) 
+- [Introduction](./README.md) 
 - [Overview](#overview)
 - [My process](#my-process)
 - [📔 week 1](./week1/week1.md)
