@@ -13,7 +13,7 @@ This is the beginning of my journey in Altschool cloud Engineering track, second
 - [📔 Exercise 3](./Exercise-3/exercise3.md)
 - [📔 Exercise 4](./Exercise-4/exercise4.md)
 - [📔 Exercise 5](./Exercise-5/exercise5.md)
-- [📔 Exercise 6](./Exercise-6/exercise6-md)
+- [📔 Exercise 6](./Exercise-6/exercise6.md)
 - [Author](#author)
 
  

@@ -9,7 +9,7 @@
 - [Creating users and groups](#Creating-users-and-groups)
 - [Author](#author)
 
-
+<br>
 
 ## Overview
 LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
@@ -49,7 +49,7 @@ The highlight for me was when I discovered that by default, admin group has sudo
 
 
 ## Creating users and groups  
-** Note: see screenshot of output below.**
+Note: see screenshot of output below.
 <br/>
 
 ### created users

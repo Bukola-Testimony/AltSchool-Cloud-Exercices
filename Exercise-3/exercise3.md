@@ -4,13 +4,13 @@
 
 - [Back to first page-Introduction](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices)
 - [Overview](#overview) 
-- [Task](#Task) 
+- [Task](#task-exercise-3💻) 
 - [My process](#my-process)
-- [Linux commands and their output](#Linux-commands-and-their-output:)
+- [Linux commands and their output](#linux-commands-and-their-output)
 - [Author](#author)
 
 
-
+<br>
 ## Overview
 LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
 <p>

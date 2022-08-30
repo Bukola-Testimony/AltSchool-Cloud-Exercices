@@ -4,7 +4,7 @@
 
 - [Back to first page-Introduction](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices)
 - [Overview](#overview) 
-- [Task](#TASK-EXERCISE-2) 
+- [Task](#task-exercise-2💻) 
 - [My process](#my-process)
 - [ifconfig Output](#ifconfig-output) 
 - [Link to vagrantfile](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices/blob/main/Exercise-2/Vagrantfile) 
