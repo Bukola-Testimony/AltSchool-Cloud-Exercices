@@ -4,13 +4,14 @@
 
 - [Back to first page-Introduction](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices)
 - [Overview](#overview) 
-- [Task](#Task) 
+- [Task](#TASK-EXERCISE-2) 
 - [My process](#my-process)
 - [ifconfig Output](#ifconfig-output) 
-- [Link to vagrantfile]() 
+- [Link to vagrantfile](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices/blob/main/Exercise-2/Vagrantfile) 
 - [Author](#author)
 
-
+<br>
+<br>
 
 ## Overview
 LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
@@ -30,7 +31,7 @@ I also Learned several linux commands and still researching more.
 <br>
 
 
-### TASK (EXERCISE 2)💻
+### TASK  EXERCISE 2💻
 
 - Set up Ubuntu 20.04LTS on your machine using vagrant. 
 - Customize your vagrantfile as necessary with private_network set to "dhcp"
