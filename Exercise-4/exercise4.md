@@ -53,36 +53,36 @@ Note: see screenshot of output below.
 <br/>
 
 ### created users
-> <img src="./Exercise-4/images/users.JPG" alt="users">
+> <img src="./images/users.JPG" alt="users">
 
 
 
 ### created groups
-> <img src="./Exercise-4/images/Capture.JPG" alt="groups">
+> <img src="./images/Capture.JPG" alt="groups">
 
 
 ### added users to groups
-> <img src="./Exercise-4/images/Group-users.JPG" alt="users to groups">
+> <img src="./images/Group-users.JPG" alt="users to groups">
 
 
 ### contents of /etc/groups (tail)
-> <img src="./Exercise-4/images/etc-group.JPG" alt="content of etc groups">
+> <img src="./images/etc-group.JPG" alt="content of etc groups">
 
 
 ### contents of /etc/password (tail)
-> <img src="./Exercise-4/images/etc-passwd.JPG" alt="content of etc passwd">
+> <img src="./images/etc-passwd.JPG" alt="content of etc passwd">
 
 <br>
 <br>
 
 ## Generated ssh keys for user (Bukola) in the admin group:
 <br>
-<img src="./Exercise-4/images/user-sshkey.png" alt="create user ssh keys">
+<img src="./images/user-sshkey.png" alt="create user ssh keys">
 
 
 ### User Public keys
 
-<img src="./Exercise-4/images/User-pubkeys.JPG" alt="user public keys">
+<img src="./images/User-pubkeys.JPG" alt="user public keys">
 
 <br>
 <br>

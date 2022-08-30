@@ -42,7 +42,7 @@ It has been 3 weeks of learning cloud engineering with AltSchool.Things are gett
 
 ### Screenshot of output of php -v
 <br>
-> <img src="./Exercise-5/images/PHP.JPG" alt="linux commands">
+> <img src="./images/PHP.JPG" alt="linux commands">
 
 
 <br>
@@ -56,7 +56,7 @@ It has been 3 weeks of learning cloud engineering with AltSchool.Things are gett
 
 ```
 <br>
-> <img src="./Exercise-5/images/sources.list.JPG" alt="Linux commands">
+> <img src="./images/sources.list.JPG" alt="Linux commands">
 
 
 <br>
@@ -71,7 +71,8 @@ It has been 3 weeks of learning cloud engineering with AltSchool.Things are gett
 
 ```
 <br>
-> <img src="./Exercise-5/images/etc-apt-source-list.png" alt="Linux commands">
+
+> <img src="./images/etc-apt-source-list.png" alt="Linux commands">
 
 <br>
 <br>
