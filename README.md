@@ -14,6 +14,7 @@ This is the beginning of my journey in Altschool cloud Engineering track, second
 - [📔 Exercise 4](./Exercise-4/exercise4.md)
 - [📔 Exercise 5](./Exercise-5/exercise5.md)
 - [📔 Exercise 6](./Exercise-6/exercise6.md)
+- [📔 Exercise 7](./Exercise-7/exercise7.md)
 - [Author](#author)
 
  
