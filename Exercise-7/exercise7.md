@@ -10,8 +10,14 @@
 
 
 
+[Back to first page](/README.md)
 [Back to first page](./README.md)
-> <img src="./cloud3.JPG" alt="cloud Engineering image">
+[Back to first page](../README.md)
+
+![AltSchool Cloud Exercices](../README.md)
+![AltSchool Cloud Exercices](./README.md)
+![AltSchool Cloud Exercices](/README.md)
+
 
 
 
