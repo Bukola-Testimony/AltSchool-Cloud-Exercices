@@ -2,7 +2,7 @@
 
 > <img src= "https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices/blob/main/cloud3.JPG" alt="cloud Engineering image"> 
 
-- [Back to first page-Introduction](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices)
+- [Back to first page](../README.md)
 - [Overview](#overview) 
 - [Task](#Task) 
 - [My process](#my-process)
@@ -11,13 +11,11 @@
 
 
 [Back to first page](/README.md)
-[Back to first page](./README.md)
-[Back to first page](../README.md)
 
-![AltSchool Cloud Exercices](../README.md)
-![AltSchool Cloud Exercices](./README.md)
-![AltSchool Cloud Exercices](/README.md)
 
+![AltSchool Cloud Exercices](../cloud3.JPG)
+![AltSchool Cloud Exercices](./cloud3.JPG)
+![AltSchool Cloud Exercices](/cloud3.JPG)
 
 
 
