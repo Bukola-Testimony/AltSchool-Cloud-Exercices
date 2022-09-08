@@ -1,21 +1,12 @@
   # AltSchool-Cloud-Exercices-Week-5
 
-> <img src= "https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices/blob/main/cloud3.JPG" alt="cloud Engineering image"> 
+> ![AltSchool Cloud Exercices](../cloud3.JPG) 
 
 - [Back to first page](../README.md)
 - [Overview](#overview) 
 - [Task](#Task) 
 - [My process](#my-process)
 - [Author](#author)
-
-
-
-[Back to first page](/README.md)
-
-
-![AltSchool Cloud Exercices](../cloud3.JPG)
-![AltSchool Cloud Exercices](./cloud3.JPG)
-![AltSchool Cloud Exercices](/cloud3.JPG)
 
 
 
@@ -72,14 +63,14 @@ Run the following command to verify that Uncomplicated Firewall (UFW) is install
 Status: install ok installed
 
 ```
-<br>
+
 <img src="./images/ufw-installed.JPG">
 <br>
 
 
 
 
-### (2)   3.5.1.2 Ensure iptables-persistent is not installed with ufw (Automated)
+## (2)   3.5.1.2 Ensure iptables-persistent is not installed with ufw (Automated)
 
 ### Audit:
 Run the following command to verify that the iptables-persistent package is not installed:
@@ -90,13 +81,13 @@ package 'iptables-persistent' is not installed and no information is
 available
 
 ```
-<br>
+
 <img src="./images/ip-tables.JPG">
 <br>  
 
 
 
-### (3)   3.5.1.3 Ensure ufw service is enabled (Automated)
+## (3)   3.5.1.3 Ensure ufw service is enabled (Automated)
 
 Notes:
  When running ufw enable or starting ufw via its initscript, ufw will flush its chains.
@@ -108,7 +99,7 @@ Notes:
 # ufw allow proto tcp from any to any port 22
 
 ```
-<br>
+
 <img src="./images/ufwallowPort22.JPG">
 <br>
 
@@ -121,7 +112,7 @@ Run the following command to verify that ufw is enabled:
 enabled
 
 ```
-<br>
+
 <img src="./images/ufw-inactive.JPG">
 <br>
 
@@ -134,7 +125,7 @@ Status: active
 enabled
 
 ```
-<br>
+
 <img src="./images/ufw-enabled.JPG">
 <br>
 
@@ -147,7 +138,7 @@ Run the following command to enable ufw:
 
 ```
 
-<br>
+
 <img src="./images/ufw-enabled.JPG">
 <img src="./images/ufwstatus-numbered.JPG">
 <br>  
@@ -155,7 +146,7 @@ Run the following command to enable ufw:
 
 
 
-### (4)   3.5.1.4 Ensure ufw loopback traffic is configured (Automated)
+## (4)   3.5.1.4 Ensure ufw loopback traffic is configured (Automated)
 
 ### Audit:
 Run the following commands and verify output includes the listed rules in order:
@@ -165,7 +156,7 @@ Run the following commands and verify output includes the listed rules in order:
 # ufw status verbose
 
 ```
-<br>
+
 <img src="./images/ufwstatus-verbose.JPG">
 <br>
 
@@ -179,14 +170,14 @@ Run the following commands to implement the loopback rules:
 # ufw deny in from ::1
 
 ```
-<br>
+
 <img src="./images/ufwallow-rules.JPG">
 <img src="./images/ufwstatus-verbose2.JPG">
 <br>
 
 
 
-### (5)   3.5.1.6 Ensure ufw firewall rules exist for all open ports (Manual)
+## (5)   3.5.1.6 Ensure ufw firewall rules exist for all open ports (Manual)
 
 ### Audit:
 Run the following command to determine open ports:
@@ -197,7 +188,7 @@ Run the following command to determine open ports:
 
 ```
 
-<br>
+
 <img src="./images/ufw-ss4tuln.JPG">
 <br>
 
@@ -208,13 +199,13 @@ Run the following command to determine firewall rules:
 
 ```
 
-<br>
+
 <img src="./images/ufw-statusverbose3.JPG">
 <br>
 
 
 
-### (6)   5.1.1 Ensure cron daemon is enabled and running (Automated)
+## (6)   5.1.1 Ensure cron daemon is enabled and running (Automated)
 
 ### Audit:
 Run the following command to verify cron is enabled:
@@ -224,7 +215,7 @@ Run the following command to verify cron is enabled:
 enabled
 
 ```
-<br>
+
 <img src="./images/cron-enabled.JPG">
 <br>
 
@@ -235,7 +226,7 @@ Run the following command to verify that cron is running:
 Active: active (running) since <Day Date Time>
 
 ```
-<br>
+
 <img src="./images/cron-active.JPG">
 <br>
 
@@ -248,14 +239,14 @@ Run the following command to enable and start cron:
 
 ```
 
-<br>
+
 <img src="./images/enable-cron.JPG">
 <br>
 
 
 
 
-### (7)   5.1.2 Ensure permissions on /etc/crontab are configured (Automated)
+## (7)   5.1.2 Ensure permissions on /etc/crontab are configured (Automated)
 
 ### Audit:
 Run the following command and verify Uid and Gid are both 0/root and Access does not grant permissions to group or other :
@@ -265,7 +256,7 @@ Run the following command and verify Uid and Gid are both 0/root and Access does
 Access: (0600/-rw-------) Uid: ( 0/ root) Gid: ( 0/ root)
 
 ```
-<br>
+
 <img src="./images/crontab.JPG">
 <br>
 
@@ -278,7 +269,7 @@ Run the following commands to set ownership and permissions on /etc/crontab :
 # chmod og-rwx /etc/crontab
 
 ```
-<br>
+
 <img src="./images/chmod-crontab.JPG">
 <br>
 
@@ -286,7 +277,7 @@ Run the following commands to set ownership and permissions on /etc/crontab :
 
 
 
-### (8)   5.1.3 Ensure permissions on /etc/cron.hourly are configured 
+## (8)   5.1.3 Ensure permissions on /etc/cron.hourly are configured 
 
 ### Audit:
 Run the following command and verify Uid and Gid are both 0/root and Access does not grant permissions to group or other:
@@ -296,7 +287,7 @@ Run the following command and verify Uid and Gid are both 0/root and Access does
 Access: (0700/drwx------) Uid: ( 0/ root) Gid: ( 0/ root)
 
 ```
-<br>
+
 <img src="./images/cron-hourly.JPG">
 <br>
 
@@ -308,14 +299,14 @@ Run the following commands to set ownership and permissions on the /etc/cron.hou
 # chmod og-rwx /etc/cron.hourly/
 
 ```
-<br>
+
 <img src="./images/chmod-cronhourly.JPG">
 <br>
 
 
 
 
-### (9)   5.1.5 Ensure permissions on /etc/cron.weekly are configured(Automated)
+## (9)   5.1.5 Ensure permissions on /etc/cron.weekly are configured(Automated)
  
 
 ### Audit:
@@ -326,7 +317,7 @@ Run the following command and verify Uid and Gid are both 0/root and Access does
 Access: (0700/drwx------) Uid: ( 0/ root) Gid: ( 0/ root)
 
 ```
-<br>
+
 <img src="./images/cron-weekly.JPG">
 <br>
 
@@ -338,14 +329,14 @@ Run the following commands to set ownership and permissions on the /etc/cron.wee
 # chmod og-rwx /etc/cron.weekly/
 
 ```
-<br>
+
 <img src="./images/chmod-cronweekly.JPG">
 <br>
 
 
 
 
-### (10)   5.1.8 Ensure cron is restricted to authorized users (Automated)
+## (10)   5.1.8 Ensure cron is restricted to authorized users (Automated)
  
 
 ### Audit:
@@ -356,7 +347,7 @@ Run the following command and verify that /etc/cron.deny does not exist:
 stat: cannot stat `/etc/cron.deny': No such file or directory
 
 ```
-<br>
+
 <img src="./images/cron-deny.JPG">
 <br>
 
@@ -382,7 +373,7 @@ Run the following command to create /etc/cron.allow
 # touch /etc/cron.allow
 
 ```
-<br>
+
 <img src="./images/cron-allow.JPG">
 <br>
 
@@ -394,7 +385,7 @@ Run the following commands to set permissions and ownership for /etc/cron.allow:
 # chown root:root /etc/cron.allow
 
 ```
-<br>
+
 <img src="./images/chmod-cronallow.JPG">
 
 

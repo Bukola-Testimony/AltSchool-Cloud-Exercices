@@ -1,8 +1,8 @@
   # AltSchool-Cloud-Exercices-Week-2
 
-> <img src= "https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices/blob/main/cloud3.JPG" alt="cloud Engineering image"> 
+> ![AltSchool Cloud Exercices](../cloud3.JPG) 
 
-- [Back to first page-Introduction](https://github.com/Bukola-Testimony/AltSchool-Cloud-Exercices)
+- [Back to first page](../README.md)
 - [Overview](#overview) 
 - [Task](#task-exercise-3💻) 
 - [My process](#my-process)

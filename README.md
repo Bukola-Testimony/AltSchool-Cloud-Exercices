@@ -1,7 +1,7 @@
 # AltSchool-Cloud-Exercices
 > <img src="./cloud3.JPG" alt="cloud Engineering image">
 
-This is the beginning of my journey in Altschool cloud Engineering track, second semester. I am excited and pumped up to begin an exciting journey into the cloud🚀🚀. 
+## This is the beginning of my journey in Altschool cloud Engineering track, second semester. I am excited and pumped up to begin an exciting journey into the cloud🚀🚀. 
 
 
 - [Introduction](./README.md) 
