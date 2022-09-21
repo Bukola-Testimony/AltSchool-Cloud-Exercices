@@ -128,9 +128,9 @@ To run the script: ./email.sh
 
 ```console
 # crontab-e 
-to create the crontab
-# crontab-e 
-to list the cronjobs on the system
+(to create the crontab)
+# crontab-l 
+(to list the cronjobs on the system)
 ```
 <img src="./images/cronjob1.JPG">
 <img src="./images/cronjob2.JPG">
