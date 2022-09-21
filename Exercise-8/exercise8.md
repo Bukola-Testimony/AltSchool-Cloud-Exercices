@@ -1,18 +1,19 @@
-  # AltSchool-Cloud-Exercice- 8 -Week-6
+  # AltSchool-Cloud-Exercise-8-Week-6
 
 
 > ![AltSchool Cloud Exercices](../cloud3.JPG) 
 
 - [Back to first page](../README.md)
 - [Overview](#overview) 
-- [Task](#Task) 
+- [Task](#Task-EXERCISE-8) 
 - [My process](#my-process)
 - [Author](#author)
 
 
+<br>
 
 ## Overview
-LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
+#### LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
 <p>
 It has been exactly 6 weeks of learning cloud engineering with AltSchool.There has been so many new concepts to learn. This is the second in september.
 </p> 
@@ -47,7 +48,7 @@ It has been exactly 6 weeks of learning cloud engineering with AltSchool.There h
 <br>
 
 ## To install an smtp server and bsd-mailx package.
-Run the following command :
+#### Run the following command :
 
 ```console
 $ sudo apt update
@@ -59,12 +60,13 @@ $ sudo apt instal bsd-mailx -y
 ## To create an Auth password from gmail follow the process:
 <img src="./images/Google-acct1.JPG">
 <img src="./images/Google-acct2.JPG">
-<img src="./images/xercise8\Google-acct3.JPG">
+<img src="./images/Google-acct3.JPG">
+<br>
 <br>
 
 ## To edit the ssmtp config file.
 
-Run the following command from the root directory:
+#### Run the following command from the root directory:
 
 ```console
 #  nano /etc/ssmtp/ssmtp.conf
@@ -73,24 +75,25 @@ Run the following command from the root directory:
 
 <img src="./images/smtp-config1.png">
 <img src="./images/smtp-config2.png">
+<br>
 <br>  
 
 
 ## To edit the revaliases file.
 
-Run the following command from the root directory:
+#### Run the following command from the root directory:
 
 ```console
 #  nano /etc/ssmtp/revaliases
 
 ```
 <img src="./images/revaliases-config.png">
+<br>
 <br> 
 
 
 ## To create a script for memory logs.
-
-Run the following command:
+#### Run the following command:
 
 ```console
 #  touch email.sh
@@ -102,7 +105,7 @@ Run the following command:
 
 ## To read the content of the memory logs sent to a file (mailFile)
 
-Run the following command:
+#### Run the following command:
 
 ```console
 #  cat mailFile
@@ -115,7 +118,7 @@ Run the following command:
 
 ## Create a crontab file and set the cronjobs to run the script(email.sh) to send emails at a specified time.
 
-Run the following command from the root directory:
+#### Run the following command from the root directory:
 
 ```console
 #  crontab-e
@@ -128,10 +131,10 @@ Run the following command from the root directory:
 
 ## Screenshots of emails sent.
 
-### Screenshot a random test mail.
+### Screenshot of a random test mail.
 <img src="./images/Email2.png">
 
-### Screenshot a mail sent at 12 midnight.
+### Screenshot of a mail sent at 12 midnight prompt.
 <img src="./images/Gmail - VAGRANT MEMORY LOG.JPG">
 <br>  
 
