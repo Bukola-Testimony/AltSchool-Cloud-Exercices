@@ -55,7 +55,7 @@ $ sudo apt update
 $ sudo apt instal -y smtp
 $ sudo apt instal bsd-mailx -y
 
-```
+```console
 
 ## To create an Auth password from gmail follow the process:
 <img src="./images/Google-acct1.JPG">
@@ -64,14 +64,15 @@ $ sudo apt instal bsd-mailx -y
 <br>
 <br>
 
+
 ## To edit the ssmtp config file.
 
 #### Run the following command from the root directory:
 
 ```console
-#  nano /etc/ssmtp/ssmtp.conf
-
+# nano /etc/ssmtp/ssmtp.conf
 ```
+
 
 <img src="./images/smtp-config1.png">
 <img src="./images/smtp-config2.png">
@@ -96,8 +97,7 @@ $ sudo apt instal bsd-mailx -y
 #### Run the following command:
 
 ```console
-#  touch email.sh
-
+# touch email.sh
 ```
 <img src="./images/EmailscrptConfig.JPG">
 <br> 
@@ -108,7 +108,7 @@ $ sudo apt instal bsd-mailx -y
 #### Run the following command:
 
 ```console
-#  cat mailFile
+# cat mailFile
 
 ```
 <img src="./images/cat-mailfile.png">
@@ -121,7 +121,7 @@ $ sudo apt instal bsd-mailx -y
 #### Run the following command from the root directory:
 
 ```console
-#  crontab-e
+# crontab-e
 
 ```
 <img src="./images/cronjob1.JPG">
