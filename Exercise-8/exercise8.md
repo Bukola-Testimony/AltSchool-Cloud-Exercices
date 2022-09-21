@@ -50,12 +50,12 @@ It has been exactly 6 weeks of learning cloud engineering with AltSchool.There h
 ## To install an smtp server and bsd-mailx package.
 #### Run the following command :
 
-```console
+```bash
 $ sudo apt update
 $ sudo apt instal -y smtp
 $ sudo apt instal bsd-mailx -y
 
-```console
+```
 
 ## To create an Auth password from gmail follow the process:
 <img src="./images/Google-acct1.JPG">
@@ -80,6 +80,9 @@ $ sudo apt instal bsd-mailx -y
 <br>  
 
 
+
+
+
 ## To edit the revaliases file.
 
 #### Run the following command from the root directory:
@@ -98,6 +101,7 @@ $ sudo apt instal bsd-mailx -y
 
 ```console
 # touch email.sh
+To run the script: ./email.sh
 ```
 <img src="./images/EmailscrptConfig.JPG">
 <br> 
@@ -121,8 +125,10 @@ $ sudo apt instal bsd-mailx -y
 #### Run the following command from the root directory:
 
 ```console
-# crontab-e
-
+# crontab-e 
+to create the crontab
+# crontab-e 
+to list the cronjobs on the system
 ```
 <img src="./images/cronjob1.JPG">
 <img src="./images/cronjob2.JPG">
@@ -148,3 +154,5 @@ $ sudo apt instal bsd-mailx -y
 
 - Website - [Bukola Testimony](https://bukola-testimony.github.io/My-Portfolio-website/)
 - Twitter - [@BukolaTestimony](https://twitter.com/BukolaTestimony)
+
+
