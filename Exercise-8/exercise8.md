@@ -3,6 +3,8 @@
 
 > ![AltSchool Cloud Exercices](../cloud3.JPG) 
 
+<br>
+
 - [Back to first page](../README.md)
 - [Overview](#overview) 
 - [Task](#Task-EXERCISE-8) 
@@ -13,7 +15,7 @@
 <br>
 
 ## Overview
-#### LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
+### LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
 <p>
 It has been exactly 6 weeks of learning cloud engineering with AltSchool.There has been so many new concepts to learn. This is the second in september.
 </p> 
