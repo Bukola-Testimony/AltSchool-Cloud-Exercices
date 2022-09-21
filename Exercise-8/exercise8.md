@@ -6,17 +6,17 @@
 <br>
 
 - [Back to first page](../README.md)
+- [📔 Exercise 1](../README.md)
+- [📔 Exercise 2](../Exercise-2/exercise2.md)
+- [📔 Exercise 3](../Exercise-3/exercise3.md)
+- [📔 Exercise 4](../Exercise-4/exercise4.md)
+- [📔 Exercise 5](../Exercise-5/exercise5.md)
+- [📔 Exercise 6](../Exercise-6/exercise6.md)
+- [📔 Exercise 7](../Exercise-7/exercise7.md)
+- [📔 Exercise 8](../Exercise-8/exercise8.md)
 - [Overview](#overview) 
 - [Task](#Task-EXERCISE-8) 
 - [My process](#my-process)
-- [📔 Exercise 1](./README.md)
-- [📔 Exercise 2](./Exercise-2/exercise2.md)
-- [📔 Exercise 3](./Exercise-3/exercise3.md)
-- [📔 Exercise 4](./Exercise-4/exercise4.md)
-- [📔 Exercise 5](./Exercise-5/exercise5.md)
-- [📔 Exercise 6](./Exercise-6/exercise6.md)
-- [📔 Exercise 7](./Exercise-7/exercise7.md)
-- [📔 Exercise 8](./Exercise-8/exercise8.md)
 - [Author](#author)
 
 
