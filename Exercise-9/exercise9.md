@@ -1,4 +1,4 @@
-  # AltSchool-Cloud-Exercise-8-Week-6
+  # AltSchool-Cloud-Exercise-9-Week-6
 
 
 > ![AltSchool Cloud Exercices](../cloud3.JPG) 
@@ -25,15 +25,13 @@
 ## Overview
 ### LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
 <p>
-It has been exactly 6 weeks of learning cloud engineering with AltSchool.There has been so many new concepts to learn. This is the second in september.
+It's about 8 weeks of learning cloud engineering with AltSchool.There has been so many new concepts to learn. This is the last week in september.
 </p> 
-<p>This week we learnt Bash scripting.Bash is a unix shell and command language. A bash script is a series of command written in a file. These are read and executed by the bash program. It is used to automate repetitive tasks. 
-With Bash scripting comes conditional statements, iterations,Functions,etc. File permissions needs to include (x) to run a bash script. These files should have an extention of sh. e.g (test.sh) The files are started with a shebang line: !#/bin/bash.
+<p>This week we learnt Bash scripting. With Bash scripting comes conditional statements, iterations and Functions. File permissions needs to include (x) to run an executable bash script. These files should have an extention of sh. e.g (test.sh) The files are started with a shebang line: !#/bin/bash. Bash scripting also allows for automation of scripts that runs within the linux environment.
 </p>
 
-<p>We also learnt about Crontab. This is a (cron-table) file which contains the schedule of cron entries to be run and at specified times. Crontab files are usually located in the root directory. Cron job or cron schedule is a specific set of execution instruction specifying day, time and command to execute.</p> 
-<p>Here is a cron job format : * * * * * </p>
-<p>Each stars represents: minutes, hours, day, month and weekday respectively.</p>
+<p>We also learnt about Crontab. This allows you to schedule commands or any application to run on the system. Cron job format : * * * * * which are minutes, hours, day, month, weekday respectively.
+</p>
 <br>
 <br>
 
