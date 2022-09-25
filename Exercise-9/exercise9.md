@@ -36,7 +36,7 @@ Ansible uses a simple syntax written in YAML called playbook.
 <br>
 
 
-## Task EXERCISE 8💻
+## Task EXERCISE 9💻
 -  Create an ansible playbook to set up a server with apache.
 - The server should be set to the Africa/Lagos timezone.
 - Host an index.php with the following content as the main file on the server.
@@ -275,12 +275,12 @@ $ systemctl status apache2
 $ sudo nano /etc/apache2/mods-enabled/dir.conf
 
 ```
-#### from the screenshot, note the order of file extention.
+### from the screenshot, note the order of file extentions.
 <img src="./images/apache-config-file1.JPG">
 <br>
 
-#### change the order of file extention to make index.php file come first. Save and close 
-<img src="./images/apache-config-file2.JPG">
+### change the order of file extentions to make index.php file come first. Save and close 
+<img src="./images/apache-config-file-2.JPG">
 <br>
 <br>
 
