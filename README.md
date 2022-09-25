@@ -16,6 +16,7 @@
 - [📔 Exercise 6](./Exercise-6/exercise6.md)
 - [📔 Exercise 7](./Exercise-7/exercise7.md)
 - [📔 Exercise 8](./Exercise-8/exercise8.md)
+- [📔 Exercise 9](./Exercise-9/exercise9.md)
 - [Author](#author)
 
  
