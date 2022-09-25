@@ -1,4 +1,4 @@
-  # AltSchool-Cloud-Exercices-Week-5
+  # AltSchool-Cloud-Exercise-7-Week-6
 
 > ![AltSchool Cloud Exercices](../cloud3.JPG) 
 
@@ -13,7 +13,7 @@
 ## Overview
 LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
 <p>
-It has been exactly 5 weeks of learning cloud engineering with AltSchool.There has been so many new concepts to learn. This is the first in september.
+It has been exactly 6 weeks of learning cloud engineering with AltSchool.There has been so many new concepts to learn. This is the second week in september.
 </p> 
 <p>This week we learnt systemd which is a Linux initialization system and service manager,systemd utilities like systemctl and journalctl. Systemd Units generally refer to services, mount points, devices or sockets on the system. installation andconfiguration of apache service.
 </p>

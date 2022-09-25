@@ -1,4 +1,4 @@
-  # AltSchool-Cloud-Exercise-8-Week-6
+  # AltSchool-Cloud-Exercise-8-Week-7
 
 
 > ![AltSchool Cloud Exercices](../cloud3.JPG) 
@@ -6,14 +6,12 @@
 <br>
 
 - [Back to first page](../README.md)
-- [📔 Exercise 1](../README.md)
 - [📔 Exercise 2](../Exercise-2/exercise2.md)
 - [📔 Exercise 3](../Exercise-3/exercise3.md)
 - [📔 Exercise 4](../Exercise-4/exercise4.md)
 - [📔 Exercise 5](../Exercise-5/exercise5.md)
 - [📔 Exercise 6](../Exercise-6/exercise6.md)
 - [📔 Exercise 7](../Exercise-7/exercise7.md)
-- [📔 Exercise 8](../Exercise-8/exercise8.md)
 - [Overview](#overview) 
 - [Task](#Task-EXERCISE-8) 
 - [My process](#my-process)
@@ -25,7 +23,7 @@
 ## Overview
 ### LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
 <p>
-It has been exactly 6 weeks of learning cloud engineering with AltSchool.There has been so many new concepts to learn. This is the second in september.
+It has been exactly 7 weeks of learning cloud engineering with AltSchool.There has been so many new concepts to learn. This is the third in september.
 </p> 
 <p>This week we learnt Bash scripting.Bash is a unix shell and command language. A bash script is a series of command written in a file. These are read and executed by the bash program. It is used to automate repetitive tasks. 
 With Bash scripting comes conditional statements, iterations,Functions,etc. File permissions needs to include (x) to run a bash script. These files should have an extention of sh. e.g (test.sh) The files are started with a shebang line: !#/bin/bash.

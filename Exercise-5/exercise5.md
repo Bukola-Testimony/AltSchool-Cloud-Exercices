@@ -1,4 +1,4 @@
-  # AltSchool-Cloud-Exercices-Week-2
+  # AltSchool-Cloud-Exercise-5-Week-2
 
 > ![AltSchool Cloud Exercices](../cloud3.JPG) 
 
