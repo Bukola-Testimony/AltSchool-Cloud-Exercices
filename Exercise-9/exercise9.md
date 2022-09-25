@@ -37,47 +37,78 @@ It's about 8 weeks of learning cloud engineering with AltSchool.There has been s
 
 
 ## Task EXERCISE 8💻
--  Create a bash script to run at every hour, saving system memory (RAM) usage to a specified file and at midnight it sends the content of the file to a specified email address, then start over for the next day.
-- The content of the file should be deleted and start a fresh log for each day.
-- Submit the content of our script, cronjob and a sample of the email sent, all in the folder for the exercise.
+-  Create an ansible playbook to set up a server with apache
+- The server should be set to the Africa/Lagos timezone.
+- Host an index.php with the following content as the main file on the server.
 
 <br>
 <br>
 
 
 ## My process
-- I installed an smtp server and bsd-mailx package.
-- created an Auth password from gmail. 
-- I edited the ssmtp config file. 
-- I edited the revaliases file.
-- I pinged google,com and telnet smtp.gmail.com 587, 456 (to test both the google and gmail severs)
-- I created a sript in the home/vagrant path 
-- I created a crontab file and set the cronjobs to run the script and send emails at the specified time.
-
+- I created 2 VMs.
+- I created ssh-keygen on the master-VM and copied it into the slave-VM. 
+- I connected with slave-VM from master-VM through ssh and IP address. 
+- In the master VM, I installed ansible.
+- I created a directory for the ansible.
+- I edited the /etc/ansible/hosts file adding the IP address of the slave-VM.
+- I cd into ansible directory
+- In the ansible directory, I created a host-inventory file.(Optional)
+- I exported the ansible inventory module into the ansible path using the export command and echo the command to make sure it exported correctly.
+- Then I edited the host-inventory file with the slave-VM IP address.(optional)
+- I created a playbook to install apache, set the time zone to Africa/lagos and install php then ran a check on the playbook.
+- I executed the playbook file. 
+- I check the result in the slave-VM to see if the installations were deployed, and I checked the apache service to confirm it is working fine. 
+- I created and edited an index.php file.
+- Using ansible playbook, I copied the index.php file from the localhost to the remote server.
+- I edited the apache config file in the remote server.
+- I then checked the rendered page on my browser.
 <br>
 <br>
 
-## To install an smtp server and bsd-mailx package.
+## Created multiple VMs edited the vagrantfile as follows:
+<br>
+
+## To Create ssh-keygen on the master-VM and copy it into the slave-VM. 
 #### Run the following command :
 
 ```bash
-$ sudo apt update
-$ sudo apt instal -y smtp
-$ sudo apt instal bsd-mailx -y
+$ ssh-keygen -t rsa
+$ ssh-copy-id -i <remote-host IP address>
+$ ssh <remote-host IP address>
 
 ```
 
-## To create an Auth password from gmail follow the process:
+## To install ansible
+#### Run the following command:
+
+```bash
+$ sudo apt update
+$ sudo apt install -y software-properties-common   
+$ sudo apt install -y ansible
+
+```
 <img src="./images/Google-acct1.JPG">
-<img src="./images/Google-acct2.JPG">
-<img src="./images/Google-acct3.JPG">
+
+<br>
+<br>
+
+## To create a folder in the home directory for the ansible
+#### Run the following command:
+
+```bash
+$ mkdir -p ansible
+
+```
+<img src="./images/Google-acct1.JPG">
+
 <br>
 <br>
 
 
-## To edit the ssmtp config file.
+## To edit the /etc/ansible/hosts file adding the IP address of the remote-server.
 
-#### Run the following command from the root directory:
+#### Run the following command:
 
 ```console
 # nano /etc/ssmtp/ssmtp.conf
