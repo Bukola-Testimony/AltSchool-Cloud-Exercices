@@ -68,13 +68,13 @@ It's about 2 months of learning cloud engineering with AltSchool.There has been 
 
 ## Network Address given: 193.16.20.35/29 
 
-## Adress = 11000000.00010000.00010100.00100011
+## Adress (converted to binary) = 11000000.00010000.00010100.00100011
 
-## Netmask 255.255.255.248
+## Netmask: 255.255.255.248
 
 ## Wild card : 0.0.0.7
 
-## Network: 193.16.20.32/29
+## Network IP: 193.16.20.32/29
 
 ## Broadcast IP: 193.16.20.39
 
