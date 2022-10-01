@@ -27,19 +27,23 @@
 ### LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
 <p>
 It's about 2 months of learning cloud engineering with AltSchool.There has been so many new concepts to learn. This is the last week in september.
-</p> 
-<p>This week we learnt about configuration management with Ansible.I must say that this is an interesting week for me. In simple terms, Ansible is an IT automation tool. It is primarily intended for IT professinals, who use it for application deployment, updates on workstation and servers, cloud provisioning, configuration management and many more.
-Ansible uses a simple syntax written in YAML called playbook. 
 </p>
-<p>Terms used in Ansible includes: control node (where ansible is installed), Ansible playbook, Tasks, Inventory,Modules and Roles.   
+
+<p>This week we learnt about Networking which refers to interconnected devises such as PC, smartphones, routers etc that can exchange data and share resources with each other. This connected devises use a system of rules called communication protocols to transmit information over physical or wireless devices.  
 </p>
+
+<p>All systems on a network  require IP addresses through which they can be identified. These are Public and Private IP addresses.
+</p>  
+<p>The internet connects the globe together through shared connection using cables. Routers on the other hand directs traffic to where it should go.
+</p>  
+
 <br>
 <br>
 
 
 ## Task EXERCISE 10💻
 
-## Exercise: 193.16.20.35/29 
+## Given a network Address of: 193.16.20.35/29 
 ### find: 
 - Network IP 
 - Number of hosts
@@ -51,17 +55,18 @@ Ansible uses a simple syntax written in YAML called playbook.
 
 
 ## My process
-- I created 2 VMs.
-- I created ssh-keygen on the master-VM and copied it into the slave-VM. 
-- I connected with slave-VM from master-VM through ssh and IP address. 
-- In the master VM, I installed ansible.
-- I created a directory for the ansible.
-- I edited the /etc/ansible/hosts file adding the IP address of the 
+- I converted the decimal network numbers to binary digits.
+- Based on the CIDR block I established the class and Netmask.
+- Based on the netmask I calculated the wildcard. 
+- Based on the wildcard I calculated the network IP. 
+- Then I calculated the Broadcast IP 
+- With the network IP and Broadcast IP I was able to find the range of IP address.
+- Finally I calculated the number of hosts based on the IP range.
 
 <br>
 <br>
 
-## 193.16.20.35/29 
+## Network Address given: 193.16.20.35/29 
 
 ## Adress = 11000000.00010000.00010100.00100011
 
@@ -71,9 +76,11 @@ Ansible uses a simple syntax written in YAML called playbook.
 
 ## Network: 193.16.20.32/29
 
-## Broadcast: 193.16.20.39
+## Broadcast IP: 193.16.20.39
 
-## Host mim: 193.16.20.33
+## Host min: 193.16.20.33
+
+## Host mxn: 193.16.20.38
 
 ## Host/Nets = 6 (Private Internet)
 
