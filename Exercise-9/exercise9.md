@@ -174,6 +174,8 @@ $  nano php.yml
 <img src="./images/php-yml-file3.JPG">
 <br> 
  
+ ## link to playbook 
+ - [Playbook](./ansible-apache.yml)
 
 ## To run a check on the playbook to check if the syntax is written correctly.
 #### Run the following command :
