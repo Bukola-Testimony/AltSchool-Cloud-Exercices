@@ -71,6 +71,14 @@ Ansible uses a simple syntax written in YAML called playbook.
 <br>
 <br>
 
+## The following are the links to Ansible playbook, index.php file and Vagrantfile. 
+ - [Ansible Playbook](./ansible-apache.yml)
+ - [Index.php file](./index.php)
+ - [Vagrantfile](./Vagrantfile)
+
+<br> 
+<br>
+
 ## Created multiple VMs and edited the vagrantfile as follows:
 #### screenshot of my vagrant file.
 <img src="./images/vagrantfile.png">
@@ -173,9 +181,8 @@ $  nano php.yml
 <img src="./images/php-yml-file2.JPG">
 <img src="./images/php-yml-file3.JPG">
 <br> 
+<br> 
  
- ## link to playbook 
- - [Playbook](./ansible-apache.yml)
 
 ## To run a check on the playbook to check if the syntax is written correctly.
 #### Run the following command :
