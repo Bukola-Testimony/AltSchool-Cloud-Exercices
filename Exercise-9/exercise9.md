@@ -305,7 +305,7 @@ $ systemctl status apache2
 
 ## Refresh the web browser.
 ### Screenshot of the rendered page.
-<img src="./images/rendered-page.JPG">
+<img src="./images/rendered-page.png">
 
 <br>
 <br>
