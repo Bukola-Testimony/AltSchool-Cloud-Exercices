@@ -17,12 +17,12 @@
   
   <body>
     <h1>THIS IS MY APACHE WEB SERVER</h1>
-    <?php echo '<p>Hello World!</p>'; ?> 
-    <?php 
+    <?php echo '<p>Hello World!</p>'; ?>
+    <?php
     echo 'This is the current date and time:  ';
-    echo PHP_EOL;
-    echo (date("F d, Y h:i:s A e,", time()));
-    ?> 
+    date_default_timezone_set("Africa/Lagos");
+    echo date("F d, Y h:i:s A e,", time());
+    ?>
 
   </body>
 </html>
