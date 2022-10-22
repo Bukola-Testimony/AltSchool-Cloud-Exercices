@@ -82,7 +82,7 @@ This is the end of semester Project. It has been an awesome ride so far.
 
 ![Laravel RealWorld Example App](images/update.png)
 
-## **Install git **
+## Install git 
 
     $ sudo apt install git -y
 
@@ -200,10 +200,11 @@ This is the end of semester Project. It has been an awesome ride so far.
 
 - php8.1-bcmath - used when working with precision floats
 
-<br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-php-8-1-and-set-up-a-local-development-environment-on-ubuntu-22-04">
    Source of the above information
 </a>
+
+<br>
 <br>
     $ php -v
 
@@ -416,7 +417,7 @@ Restart the Apache service to apply changes
 
 ## **Confugring .env file**
 
-We can finish the Laravel installation by running the following commands
+### We can finish the Laravel installation by running the following commands
 
     $ sudo cp .env.example .env
 
@@ -428,7 +429,7 @@ We can finish the Laravel installation by running the following commands
 
 ### We can now create a database to store our application data in it. We can set up the database that our application will be using in production.
 
-Let’s start by executing the following command into MySQL
+### Let’s start by executing the following command into MySQL
 
     $ mysql -u root -p
 
@@ -456,7 +457,7 @@ Let’s start by executing the following command into MySQL
 
 ![Laravel RealWorld Example App](images/web-php.JPG)
 
-We can now cache our configurations using the command
+### We can now cache our configurations using the command
 
 > $ sudo php artisan config:cache
 
