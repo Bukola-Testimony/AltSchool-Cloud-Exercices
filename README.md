@@ -1,6 +1,8 @@
 # AltSchool-Cloud-Exercices
 > <img src="./cloud3.JPG" alt="cloud Engineering image">
 
+
+
 ## This is the beginning of my journey in Altschool cloud Engineering track, second semester. I am excited and pumped up to begin an exciting journey into the cloud🚀🚀. 
 
 
@@ -18,9 +20,10 @@
 - [📔 Exercise 8](./Exercise-8/exercise8.md)
 - [📔 Exercise 9](./Exercise-9/exercise9.md)
 - [📔 Exercise 10](./Exercise-10/exercise10.md)
+- [📔 Semester-Project](./Semester-Project/semester-project.md)
 - [Author](#author)
 
- 
+
 
 ## Overview
 LEARNING CLOUD ENGINEERING WITH ALTSCHOOL.
@@ -45,3 +48,6 @@ Thanks for following along!!🚀🚀.
 
 - Website - [Bukola Testimony](https://bukola-testimony.github.io/My-Portfolio-website/)
 - Twitter - [@BukolaTestimony](https://twitter.com/BukolaTestimony)
+
+
+> ![AltSchool Cloud Exercices](cloud3.JPG) 
