@@ -1,5 +1,5 @@
 # AltSchool-Cloud-Exercices
-> <img src="./cloud3.JPG" alt="cloud Engineering image">
+> ![AltSchool Cloud Exercices](cloud3.JPG)
 
 
 
@@ -50,4 +50,3 @@ Thanks for following along!!🚀🚀.
 - Twitter - [@BukolaTestimony](https://twitter.com/BukolaTestimony)
 
 
-> ![AltSchool Cloud Exercices](cloud3.JPG) 
